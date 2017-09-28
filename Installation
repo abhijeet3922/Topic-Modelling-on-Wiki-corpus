@@ -1,7 +1,7 @@
 Topic modelling requires following installations.
 
 1. Anaconda Distribution. 
-    Download & install Python 2.7 version from https://www.anaconda.com/download/
+    Download & install Python 2.7 version (Windows/Linux, 32 bit/64bit) from https://www.anaconda.com/download/
     
 2. NLTK - DATA.
     Run the following statements in python to download and install the NLTK data & corpora on your system:
