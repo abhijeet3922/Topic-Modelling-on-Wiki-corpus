@@ -4,7 +4,7 @@ Topic modelling requires following installations.
     Download & install Python 2.7 version from https://www.anaconda.com/download/
     
 2. NLTK - DATA.
-    Run the following statements in python to download and install the NLTK data & corpora on your ststem:
+    Run the following statements in python to download and install the NLTK data & corpora on your system:
     -> import nltk
     -> nltk.download()
     Choose "All packages" from the "Collections" tab of the user interface which will be popped up. Press "Download".
