@@ -1,1 +1,17 @@
+Topic modelling requires following installations.
 
+1. Anaconda Distribution. 
+    Download & install Python 2.7 version from https://www.anaconda.com/download/
+    
+2. NLTK - DATA.
+    Run the following statements in python to download and install the NLTK data & corpora on your ststem:
+    -> import nltk
+    -> nltk.download()
+    Choose "All packages" from the "Collections" tab of the user interface which will be popped up. Press "Download".
+    
+3. Gensim Library for Topic Modelling.
+    For windows:
+    >> pip install -U gensim
+    For Linux:
+    >> pip install --upgrade gensim  
+    (In case that fails, make sure you’re installing into a writeable location (or use sudo), or read on.)
