@@ -1,5 +1,5 @@
 # Topic-Modelling-on-Wiki-corpus
-It uses Latent Dirichlet Allocation algorithm to discover hidden topics from the articles. It is trained on 40,000 articles taken from simple wikipedia english corpus. Finally, It extracts the topic of the given input text article. 
+It uses Latent Dirichlet Allocation algorithm to discover hidden topics from the articles. It is trained on 60,000 articles taken from simple wikipedia english corpus. Finally, It extracts the topic of the given input text article. 
 
 The whole application of topic modelling is performed in 3 steps. The purpose is to build the system from scratch and provide an insight of implementation of the same to viewers.
 
