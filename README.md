@@ -10,7 +10,11 @@ The 3 steps are:
 
 Best thing would be to follow series of blog-post for the same. The description about the steps to perform "Topic Modelling" from scratch can be read from my blog:
 
+Part 1
 https://appliedmachinelearning.wordpress.com/2017/08/28/topic-modelling-part-1-creating-article-corpus-from-simple-wikipedia-dump/
+
+Part 2
+https://appliedmachinelearning.wordpress.com/2017/09/28/topic-modelling-part-2-discovering-topics-from-articles-with-latent-dirichlet-allocation/
 
 Stay tuned for rest of the blog-posts in "Topic Modelling Series".
 
