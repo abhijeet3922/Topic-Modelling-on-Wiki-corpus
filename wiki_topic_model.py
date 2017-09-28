@@ -53,8 +53,8 @@ dictionary.filter_extremes(no_below=4, no_above=0.4)
 
 # List of some words which has to be removed from dictionary as they are content neutral words
 stoplist = set('also use make people know many call include part find become like mean often different \
-               usually take wikt come give well get since type list say change see refer actually iii \
-               aisne kinds pas ask would way something need things want every str'.split())
+                usually take wikt come give well get since type list say change see refer actually iii \
+                aisne kinds pas ask would way something need things want every str'.split())
 stop_ids = [dictionary.token2id[stopword] for stopword in stoplist if stopword in dictionary.token2id]
 dictionary.filter_tokens(stop_ids)
 
