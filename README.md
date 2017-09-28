@@ -5,8 +5,8 @@ The whole application of topic modelling is performed in 3 steps. The purpose is
 
 The 3 steps are:
 1. Creating an article corpus of 70.000 - 80,000 articles from the simple wiki XML dump file. (done by wiki_parser.py)
-2. Automatically discovering hidden topics from the training articles (50,000 training articles)
-3. Extract topic from any articles based on topic discovered in Step 2.
+2. Automatically discovering hidden topics from the training articles (60,000 training articles)
+3. Extract topic from remaining articles based on topic discovered in Step 2.
 
 Best thing would be to follow series of blog-post for the same. The description about the steps to perform "Topic Modelling" from scratch can be read from my blog:
 
