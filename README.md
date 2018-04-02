@@ -17,6 +17,5 @@ Part 2
 https://appliedmachinelearning.wordpress.com/2017/09/28/topic-modelling-part-2-discovering-topics-from-articles-with-latent-dirichlet-allocation/
 
 Part 3
-
 https://appliedmachinelearning.wordpress.com/2017/10/13/topic-modelling-part-3-document-clustering-exploration-theme-extraction-from-simplewiki-articles/
 
