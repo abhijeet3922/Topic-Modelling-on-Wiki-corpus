@@ -58,8 +58,8 @@ stoplist = set('also use make people know many call include part find become lik
 stop_ids = [dictionary.token2id[stopword] for stopword in stoplist if stopword in dictionary.token2id]
 dictionary.filter_tokens(stop_ids)
 
-words,ids = dictionary.filter_n_most_frequent(50)
-print words,"\n\n",ids
+#words,ids = dictionary.filter_n_most_frequent(50)
+#print words,"\n\n",ids
 
 # Converting list of documents (corpus) into Document Term Matrix using dictionary prepared above.
 doc_term_matrix = [dictionary.doc2bow(doc) for doc in doc_clean]
